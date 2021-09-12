@@ -7,7 +7,7 @@
 - **`Polybar`** 
 - **`Rofi`**
 - **`Dmenu`**
-- **`pywal`** : 
+- **`pywal`** 
 - **`pywalfox`**
 - **`networkmanager-dmenu`** 
 - **`Alacritty`** 
